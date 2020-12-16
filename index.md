@@ -2,7 +2,7 @@
 layout: home
 title: Black Lives Matter and arrestation trends
 subtitle: How did the creation of the movement influence the arrestations of African Americans ?
-image: /images/black-lives-matter.jpg
+
 ---
 ![image](/images/black-lives-matter.jpg)
 
@@ -42,14 +42,15 @@ Well that's unfortunate, we find a similar trend for the arrests of White people
 
 After some digging in the political history of L.A., we found that a the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
 
- #### Influence of the movement on the arrestations of Hispanic people 
+#### Influence of the movement on the arrestations of Hispanic people 
  
- -
+
  
  ___
 
 # Was the disparities between White and African Americans arrestations impacted by the creation of the movement ?
 
+At this stage of the study, we have only studied the evolution of the arrests for different races. 
 
 ___
 

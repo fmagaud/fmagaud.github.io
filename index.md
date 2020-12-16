@@ -19,7 +19,7 @@ ___
 
 Let's begin with a first and broad analysis of the data.
 
-<span style="color:red"> ADD PLOT OF ARRESTS PER RACE text</span>
+<span style="color:red"> ADD PLOT OF ARRESTS PER RACE/span>
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. We all agree that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
 
-<span style="color:red"> ADD GRAPH COMPARISON OF MEANS BEFORE AND AFTER text </span>
+<span style="color:red"> ADD GRAPH COMPARISON OF MEANS BEFORE AND AFTER  </span>
 
 With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. We can observe a decrease of approximately 22.86\% in the total arrests of African Americans between the two periods studied (the first period being between beginning of 2010 until July 2013 and the second perdio being between July 2013 and end of 2016). That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
 
@@ -52,16 +52,18 @@ After some digging in the political history of L.A., we found that a the 42nd ma
 
 #### Influence of the movement on the arrestations of Hispanic people 
  
-<span style="color:red"> (may need to delete this) text</span>
+<span style="color:red"> (may need to delete this) </span>
 
  
  ___
 
 # Was the disparities between White and African Americans arrestations impacted by the creation of the movement ?
 
-At this stage of the study, we have only studied the evolution of the arrests for different races. Has it has been shown previously, the events that occured in June 2013 (either the creation of the Black Lives Matter movement, either the nomination of the new mayor at L.A.) lead to a significant decrease in the number of arrests of the African Americans and the White people. These events did not significantly impact the evolution of the arrests of Hispanic people (that was already in a decreasing mode). 
+At this stage of the study, we have only studied the evolution of the arrests for different races. Has it has been shown previously, the events that occured in June 2013 (either the creation of the Black Lives Matter movement, either the nomination of the new mayor at L.A.) lead to a significant decrease in the number of arrests of the African Americans and the White people. <span style="color:red"> These events did not significantly impact the evolution of the arrests of Hispanic people (that was already in a decreasing mode). </span>
 
-Remember our initial question: did the creation of the Black Lives Matter movement influence the arrestations of African Americans ? Another question arises: did the creation of the Black Lives Matter movement help reduce the discrimination of African Americans (which is basicelly its main aim) ?
+Remember our initial question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ? we only answered to the question :did the creation of the Black Lives Matter movement influence the arrestations of African Americans ? 
+
+Let's go back to this first question and see whether the creation of the Black Lives Matter movement helped reduce the discrimination of African Americans (which is basicelly the main aim of this movement).
 
 To address this question we can study the evolution of the difference in the number of arrests of African Amercians and White people. When the number of arrests of African Americans (respectively of White people) is reported to the size of the African American population (respectively to the size of the White population) in L.A., the difference between the number of arrests between each race can be seen as a measure of the equality between these two races: the closest to 0 (meaning that the number of arrests for each race is most similar), the less inquality there is between the races. 
 

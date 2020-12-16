@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Black Lives Matter and arrestation trends
-subtitle: How did the creation of the movement influence the arrestations of African Americans ?
+subtitle: How did the creation of the movement influence the racial inequalities that African Americans are facing ?
 
 ---
 ![image](/images/black-lives-matter.jpg)
@@ -13,7 +13,13 @@ But the movement Black Lives Matter was created long before. The \#BLACKLIVESMAT
 
 Seven years after the creation of this movement it is interesting to analyze the situation and to ask the question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ?
 
-To answer this question, we will study the number of arrests of Adrican Americans in L.A. and assess the impact of the creation of this movement. 
+To answer this question, we will study the number of arrests of Adrican Americans in L.A. and assess the impact of the creation of this movement on the evolution of the arrests. 
+
+___
+
+Let's begin with a first and broad analysis of the data.
+
+ADD PLOT OF ARRESTS PER RACE
 
 ___
 
@@ -26,24 +32,26 @@ Now that we have seen the clear impact of July 2013 on the evolution of the arre
 
 ___
 
-# How did the creation of this movement impacted the other races ?
-
-#### Influence of the movement on the arrestations of White people
+# How did the creation of this movement impacted White arrests ?
 
 Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. We all agree that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
 
 ADD GRAPH COMPARISON OF MEANS BEFORE AND AFTER
 
-With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013.  That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
+With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. We can observe a decrease of approximately 22.86\% in the total arrests of African Americans between the two periods studied (the first period being between beginning of 2010 until July 2013 and the second perdio being between July 2013 and end of 2016). That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
 
 ADD GRAPH OF THE SRA WITH THE COMPARISON OF WHITE AND BLACK ARREST
 
 Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... How could we explain that ? 
 
+<span style="color:red">some **should we add here the analysis of the regression talbe ? Just mention it has been done and July 2013 is a significant intervention** text</span>
+
 After some digging in the political history of L.A., we found that a the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
+
 
 #### Influence of the movement on the arrestations of Hispanic people 
  
+(may need to delete this)
 
  
  ___

@@ -50,7 +50,12 @@ After some digging in the political history of L.A., we found that a the 42nd ma
 
 # Was the disparities between White and African Americans arrestations impacted by the creation of the movement ?
 
-At this stage of the study, we have only studied the evolution of the arrests for different races. 
+At this stage of the study, we have only studied the evolution of the arrests for different races. Has it has been shown previously, the events that occured in June 2013 (either the creation of the Black Lives Matter movement, either the nomination of the new mayor at L.A.) lead to a significant decrease in the number of arrests of the African Americans and the White people. These events did not significantly impact the evolution of the arrests of Hispanic people (that was already in a decreasing mode). 
+
+Remember our initial question: did the creation of the Black Lives Matter movement influence the arrestations of African Americans ? Another question arises: did the creation of the Black Lives Matter movement help reduce the discrimination of African Americans (which is basicelly its main aim) ?
+
+To address this question we can study the evolution of the difference in the number of arrests of African Amercians and White people. This difference can be seen as a measure of the equality:  
+
 
 ___
 

@@ -2,7 +2,7 @@
 layout: home
 title: Black Lives Matter and arrestation trends
 subtitle: How did the creation of the movement influence the arrestations of African Americans ?
-
+image: /images/black-lives-matter.jpg
 ---
 ![image](/images/black-lives-matter.jpg)
 

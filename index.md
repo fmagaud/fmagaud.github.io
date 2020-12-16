@@ -28,6 +28,7 @@ ___
 
 # How did the creation of this movement impacted the other races ?
 
+#### Influence of the movement on the arrestations of White people
 
 Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. We all agree that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
 
@@ -41,7 +42,12 @@ Well that's unfortunate, we find a similar trend for the arrests of White people
 
 After some digging in the political history of L.A., we found that a the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
 
- - #### hispanic people arrestation trends.
+ #### Influence of the movement on the arrestations of Hispanic people
+ 
+ ___
+
+# Was the disparities between White and African Americans arrestations impacted by the creation of the movement ?
+
 
 ___
 

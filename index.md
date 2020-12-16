@@ -7,10 +7,10 @@ subtitle: How did the creation of the movement influence the arrestations of Afr
 ![image](/images/black-lives-matter.jpg)
 
 
-We all know the movement Black Lives Matter. In Europe, it became widely known after the death of George Floy in Minnesota.  
+We all know the movement Black Lives Matter. In Europe, it became widely known after the death of George Floy in Minnesota. Following this event, major protests took place in various cities across the Old Continent to denounce racial inequalities and police brutality and discrimination against non-white citizens. 
 
-But this movement was created long before. The \#BLACKLIVESMATTER first appeared in the United States in July 2013. 
- 
+But the movement Black Lives Matter was created long before. The \#BLACKLIVESMATTER first appeared in the United States in July 2013. What is the starting point of this movement ? , after the acquittal of the neighborhood watch coordinator George Zimmerman in the shooting of the African American Trayvin Martin, the hashtag #BlackLivesMatter appeared for the first time on social media. This event launched the creation of the now worldwide known movement "Black Lives Matter" that aims to advocate against violence inflicted on Black communities.
+
 
 ___
 

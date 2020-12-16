@@ -13,6 +13,7 @@ But the movement Black Lives Matter was created long before. The \#BLACKLIVESMAT
 
 Seven years after the creation of this movement it is interesting to analyze the situation and to ask the question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ?
 
+We will study the impact of th
 
 
 

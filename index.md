@@ -4,7 +4,7 @@ title: Black Lives Matter and arrestation trends
 subtitle: How did the creation of the movement influence the arrestations of African Americans ?
 
 ---
-![image](/images/black-lives-matter.jpg)
+![image](/images/black-lives-matter.jpg){width: 100%}
 
 
 We all know the movement Black Lives Matter. In Europe, it became widely known after the death of George Floy in Minnesota, choked under the knee of the police officer in charge of his arrest. Following this event, major protests took place in various cities across the Old Continent to denounce racial inequalities and police brutality and discrimination against non-white citizens. 

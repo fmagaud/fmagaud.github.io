@@ -4,7 +4,7 @@ title: Black Lives Matter and arrestation trends
 subtitle: How did the creation of the movement influence the arrestations of African Americans ?
 
 ---
-![image](/images/black-lives-matter.jpg){width: 100%}
+![image](/images/black-lives-matter.jpg)
 
 
 We all know the movement Black Lives Matter. In Europe, it became widely known after the death of George Floy in Minnesota, choked under the knee of the police officer in charge of his arrest. Following this event, major protests took place in various cities across the Old Continent to denounce racial inequalities and police brutality and discrimination against non-white citizens. 
@@ -13,7 +13,7 @@ But the movement Black Lives Matter was created long before. The \#BLACKLIVESMAT
 
 Seven years after the creation of this movement it is interesting to analyze the situation and to ask the question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ?
 
-We will study the impact of th
+To answer this question, we will study the number of arrests of Adrican Americans in L.A. and assess the impact of the creation of this movement. 
 
 
 
@@ -23,6 +23,8 @@ ___
 
  - #### first the difference of black people arrests in number before and after July 2013.
  - #### second the change in trends after this point through a segmented regression analysis.
+
+Now that we have seen the impact of July 2013 on the evolution of the arrests of the African American, let's have a look at its influence on other races ! 
 
 ___
 

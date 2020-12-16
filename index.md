@@ -11,6 +11,8 @@ We all know the movement Black Lives Matter. In Europe, it became widely known a
 
 But the movement Black Lives Matter was created long before. The \#BLACKLIVESMATTER first appeared on social media in the United States in July 2013. What was the starting point of this movement ? The acquittal of the neighborhood watch coordinator George Zimmerman, responsible for the shooting of the African American Trayvin Martin. This is the major event that launched the creation of the now worldwide known movement "Black Lives Matter" that aims to advocate against violence inflicted on Black communities. 
 
+Seven years after the creation of this movement it is interesting to analyze the situation and to ask the question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ?
+
 
 
 

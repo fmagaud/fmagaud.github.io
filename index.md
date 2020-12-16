@@ -19,7 +19,7 @@ ___
 
 Let's begin with a first and broad analysis of the data.
 
-ADD PLOT OF ARRESTS PER RACE
+<span style="color:red"> ADD PLOT OF ARRESTS PER RACE text</span>
 
 ___
 
@@ -27,8 +27,9 @@ ___
 
  - #### first the difference of black people arrests in number before and after July 2013.
  - #### second the change in trends after this point through a segmented regression analysis.
+ 
 
-Now that we have seen the clear impact of July 2013 on the evolution of the arrests of the African American, let's have a look at its influence on other races ! 
+Now that we have seen the clear impact of July 2013 on the evolution of the arrests of the African American, let's have a look at its influence on the arrests of White people ! 
 
 ___
 
@@ -36,22 +37,22 @@ ___
 
 Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. We all agree that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
 
-ADD GRAPH COMPARISON OF MEANS BEFORE AND AFTER
+<span style="color:red"> ADD GRAPH COMPARISON OF MEANS BEFORE AND AFTER text </span>
 
 With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. We can observe a decrease of approximately 22.86\% in the total arrests of African Americans between the two periods studied (the first period being between beginning of 2010 until July 2013 and the second perdio being between July 2013 and end of 2016). That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
 
-ADD GRAPH OF THE SRA WITH THE COMPARISON OF WHITE AND BLACK ARREST
+<span style="color:red"> ADD GRAPH OF THE SRA WITH THE COMPARISON OF WHITE AND BLACK ARREST text</span>
 
 Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... How could we explain that ? 
 
-<span style="color:red">some **should we add here the analysis of the regression talbe ? Just mention it has been done and July 2013 is a significant intervention** text</span>
+<span style="color:red">should we add here the analysis of the regression talbe ? Just mention it has been done and July 2013 is a significant intervention text</span>
 
 After some digging in the political history of L.A., we found that a the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
 
 
 #### Influence of the movement on the arrestations of Hispanic people 
  
-(may need to delete this)
+<span style="color:red"> (may need to delete this) text</span>
 
  
  ___
@@ -66,7 +67,7 @@ To address this question we can study the evolution of the difference in the num
 
 Hoping this is clear enough, let's study the evolution of this difference !
 
-ADD GRAPH OF THE SRA OF THE DIFFERENCE
+<span style="color:red"> ADD GRAPH OF THE SRA OF THE DIFFERENCE text</span>
 
 
 ___

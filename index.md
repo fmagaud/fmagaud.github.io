@@ -15,8 +15,6 @@ Seven years after the creation of this movement it is interesting to analyze the
 
 To answer this question, we will study the number of arrests of Adrican Americans in L.A. and assess the impact of the creation of this movement. 
 
-
-
 ___
 
 # How African American arrestations evolved after the creation of the movement ?
@@ -29,6 +27,9 @@ Now that we have seen the impact of July 2013 on the evolution of the arrests of
 ___
 
 # How did the creation of this movement impacted the other races ?
+
+
+Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. TWe all agress that the movement aims at reducing the eradicating white supremacy. 
 
  - #### white people arrestation trends.
  - #### hispanic people arrestation trends.

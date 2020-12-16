@@ -37,7 +37,7 @@ With a first look on the data, we can see that there is quite a difference betwe
 
 ADD GRAPH OF THE SRA WITH THE COMPARISON OF WHITE AND BLACK ARREST
 
-Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... How could be explain that ? 
+Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... How could we explain that ? 
 
 After some digging in the political history of L.A., we found that a the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
 

@@ -29,9 +29,16 @@ ___
 # How did the creation of this movement impacted the other races ?
 
 
-Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. TWe all agress that the movement aims at reducing the eradicating white supremacy. 
+Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. We all agrees that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
 
- - #### white people arrestation trends.
+ADD GRAPH COMPARISON OF MEANS BEFORE AND AFTER
+
+With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
+
+ADD GRAPH OF THE SRA WITH THE COMPARISON OF WHITE AND BLACK ARREST
+
+Well that's unfortunate... We find a similar trend for the arrests of White people and for African Americans... 
+
  - #### hispanic people arrestation trends.
 
 ___

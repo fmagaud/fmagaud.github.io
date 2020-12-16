@@ -23,6 +23,7 @@ ___
  - #### second the change in trends after this point through a segmented regression analysis.
 
 Now that we have seen the clear impact of July 2013 on the evolution of the arrests of the African American, let's have a look at its influence on other races ! 
+
 ___
 
 # How did the creation of this movement impacted the other races ?
@@ -33,7 +34,7 @@ Let's begin our analysis by checking the impact of the Black Lives Matter moveme
 
 ADD GRAPH COMPARISON OF MEANS BEFORE AND AFTER
 
-With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
+With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013.  That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
 
 ADD GRAPH OF THE SRA WITH THE COMPARISON OF WHITE AND BLACK ARREST
 

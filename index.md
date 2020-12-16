@@ -22,8 +22,7 @@ ___
  - #### first the difference of black people arrests in number before and after July 2013.
  - #### second the change in trends after this point through a segmented regression analysis.
 
-Now that we have seen the impact of July 2013 on the evolution of the arrests of the African American, let's have a look at its influence on other races ! 
-
+Now that we have seen the clear impact of July 2013 on the evolution of the arrests of the African American, let's have a look at its influence on other races ! 
 ___
 
 # How did the creation of this movement impacted the other races ?
@@ -54,7 +53,11 @@ At this stage of the study, we have only studied the evolution of the arrests fo
 
 Remember our initial question: did the creation of the Black Lives Matter movement influence the arrestations of African Americans ? Another question arises: did the creation of the Black Lives Matter movement help reduce the discrimination of African Americans (which is basicelly its main aim) ?
 
-To address this question we can study the evolution of the difference in the number of arrests of African Amercians and White people. This difference can be seen as a measure of the equality:  
+To address this question we can study the evolution of the difference in the number of arrests of African Amercians and White people. When the number of arrests of African Americans (respectively of White people) is reported to the size of the African American population (respectively to the size of the White population) in L.A., the difference between the number of arrests between each race can be seen as a measure of the equality between these two races: the closest to 0 (meaning that the number of arrests for each race is most similar), the less inquality there is between the races. 
+
+Hoping this is clear enough, let's study the evolution of this difference !
+
+ADD GRAPH OF THE SRA OF THE DIFFERENCE
 
 
 ___

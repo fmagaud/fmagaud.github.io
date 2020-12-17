@@ -25,7 +25,7 @@ Let's begin with a first and broad analysis of the data. What is the row number 
 
 ![image](/images/Number of Arrests per Race.png)
  
-This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be logic that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, we scaled these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
+This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be logic that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, we scaled <span style="color:red"> we should maybe only talk in present (ex. let's scale the data) </span> these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
 
 ![image](/images/Scaled Number of Arrests per Race.png)
  
@@ -37,34 +37,31 @@ ___
 
 Let's now focus more on Black people and how the movement impacted them. The first thing we want to see is the number of arrests before the creation of the movement vs. the number of arrests after. Was there an evolution in terms of number ?
 
-Number of Arrests of African American people before and after the creation of Black Lives Matter
 ![image](images/Number of Arrests of African American people before and after the creation of Black Lives Matter.png)
 
-This seems to be really good news ! This figure shows us that there was a decrese of 22% after the creation of the movement and we confirmed this difference to be statistically significant with a Welch's t-test. 
+This seems to be really good news ! This figure shows us that there was a decrese of 22% after the creation of the movement. We confirmed this difference to be statistically significant with a Welch's t-test. 
 But how did it evolve ? We are interested in the trends of this evolution and thus we compute the monthly number of arrests.
 
 ![image](images/Pre and Post July 2013 Arrestations Trends of African American people.png)
 
 This segmented regression analysis shows us that there was a significant drop of arrest in July 2013 and further more that the decreasing trend Post-July is statistically significant too. Thus we can say that there was definitely a positive change in trends and numbers after the apparition of the Black Lives Matter movement. But was this change really the result of the movement ? 
-Now that we have seen the clear impact of July 2013 on the evolution of the arrests of the African American, let's have a look at its influence on the arrests of White people ! 
+Now that we have seen the clear impact of July 2013 on the evolution of the arrests of the African Americans, let's have a look at its influence on the arrests of White people ! 
 
 ___
 
 # How did the creation of this movement impacted White arrests ?
 
-Let's begin our analysis by checking the impact of the Black Lives Matter movement on the arrests of White people in L.A.. We all agree that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
+We all agree that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
 
 ![image](images/Number of Arrests of White people before and after the creation of Black Lives Matter.png)
 
-With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. We can observe a decrease of approximately 22.86\% in the total arrests of African Americans between the two periods studied (the first period being between beginning of 2010 until July 2013 and the second perdio being between July 2013 and end of 2016). That's not what we were expecting... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
+With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. We can observe a decrease of approximately 23.04% in the total arrests of African Americans between the two periods studied (the first period being between beginning of 2010 until July 2013 and the second period being between July 2013 and end of 2016). That's not what we were expecting... The decrease in arrests is even higher for the White poeple than for the African Americans... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
 
 ![image](images/Pre and Post July 2013 Arrestations Trends of African American and White people.png)
 
-Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... How could we explain that ? 
+Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... Regression analysis has even shown that July 2013 has a statistically significant importance. <span style="color:red">should we add here the analysis of the regression talbe ? </span> How could we explain that ? 
 
-<span style="color:red">should we add here the analysis of the regression talbe ? Just mention it has been done and July 2013 is a significant intervention text</span>
-
-After some digging in the political history of L.A., we found that a the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
+After some digging in the political history of L.A., we found that the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
 
 
 #### Influence of the movement on the arrestations of Hispanic people 

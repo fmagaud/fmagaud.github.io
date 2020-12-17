@@ -13,22 +13,29 @@ But the movement Black Lives Matter was created long before. The \#BLACKLIVESMAT
 
 Seven years after the creation of this movement it is interesting to analyze the situation and to ask the question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ?
 
-To answer this question, we will study the number of arrests of Adrican Americans in L.A. and assess the impact of the creation of this movement on the evolution of the arrests. 
+To answer this question, we will study the number of arrests of African Americans in L.A. and assess the impact of the creation of this movement on the evolution of the arrests. 
 
 ___
 
-Let's begin with a first and broad analysis of the data.
+Let's begin with a first and broad analysis of the data. What is the row number of arrestations for each race in L.A. per year ?
 
+<span style="color:red"> Figure, to update --> average per year
 
-Number of Arrests of African American people before and after the creation of Black Lives Matter
-![image](images/Number of Arrests of African American people before and after the creation of Black Lives Matter.png)
+This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be logic that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, we scaled these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
 
+<span style="color:red"> Figure
+
+Oh man this is an impressive result, and not in the good way. Apparently, African Americans are arrested almost 5 times more than Whites. Does this reflects only racial discrimination ? Let’s keep in mind that it could also reflect the uneven repartition of the races within the different social classes. In our opinion it is probably a mix of both.
 
 ___
 
 # How African American arrestations evolved after the creation of the movement ?
 
  - #### first the difference of black people arrests in number before and after July 2013.
+ 
+Number of Arrests of African American people before and after the creation of Black Lives Matter
+![image](images/Number of Arrests of African American people before and after the creation of Black Lives Matter.png)
+
  - #### second the change in trends after this point through a segmented regression analysis.
  
 

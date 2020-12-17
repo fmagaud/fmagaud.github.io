@@ -17,14 +17,17 @@ To answer this question, we will study the number of arrests of African American
 
 ___
 
+# Are there apparent disparities in arrests with respect to the race in L.A. ?
+
 Let's begin with a first and broad analysis of the data. What is the row number of arrestations for each race in L.A. per year ?
 
 <span style="color:red"> Figure, to update --> average per year
-
+![image](/images/Number of Arrests per Race.png
+ 
 This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be logic that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, we scaled these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
 
-<span style="color:red"> Figure
-
+![image](/images/Scaled Number of Arrests per Race.png)
+ 
 Oh man this is an impressive result, and not in the good way. Apparently, African Americans are arrested almost 5 times more than Whites. Does this reflects only racial discrimination ? Let’s keep in mind that it could also reflect the uneven repartition of the races within the different social classes. In our opinion it is probably a mix of both.
 
 ___

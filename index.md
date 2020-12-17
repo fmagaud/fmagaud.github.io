@@ -98,9 +98,8 @@ ___
 ![image](images/Number of Arrests of African American people w-r-t gender (Jan 2010 - Jun 2019).png)
 
 
+![image](images/Pre and Post July 2013 Arrestations Trends of Males and Females African American people.png)
 
- - #### comparison of means.
- - #### segmented regression analysis.
 
 ___
 

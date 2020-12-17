@@ -59,7 +59,8 @@ With a first look on the data, we can see that there is quite a difference betwe
 
 ![image](images/Pre and Post July 2013 Arrestations Trends of African American and White people.png)
 
-Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... Regression analysis has even shown that July 2013 has a statistically significant importance. <span style="color:red">should we add here the analysis of the regression talbe ? </span> How could we explain that ? 
+Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... The overall trend of the arrestations of White people that was rising before July 2013, is decreasing after July 2013. A drop in the number of arrests (albeit less pronounced than the one observed in the arrests of the African Americans) can also be noticed right after July 2013.
+Regression analysis has even shown that July 2013 has a statistically significant importance. <span style="color:red">should we add here the analysis of the regression talbe ? </span> How could we explain that ? 
 
 After some digging in the political history of L.A., we found that the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
 

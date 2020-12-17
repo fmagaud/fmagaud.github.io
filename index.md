@@ -53,6 +53,10 @@ ___
 
 We all agree that the movement aims at reducing the racial disparities and at eradicating white supremacy. The Black Lives Matter movement should therefore not impact so much the arrestation trend of white people right ?
 
+| ![image](images/Number of Arrests of White people before and after the creation of Black Lives Matter.png) | 
+|:--:| 
+| *Number of Arrests of White people before and after the creation of Black Lives Matter* |
+
 ![image](images/Number of Arrests of White people before and after the creation of Black Lives Matter.png)
 
 With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. We can observe a decrease of approximately 23.04% in the total arrests of African Americans between the two periods studied (the first period being between beginning of 2010 until July 2013 and the second period being between July 2013 and end of 2016). That's not what we were expecting... The decrease in arrests is even higher for the White poeple than for the African Americans... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.

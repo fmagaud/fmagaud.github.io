@@ -86,6 +86,11 @@ Hoping this is clear enough, let's study the evolution of this difference !
 
 ![image](images/Pre and Post July 2013 Arrestations trends of the difference between Black and White.png)
 
+In this graph, we can clearly see a drop in the total number of arrestations of Black minus the arrestations of White people. This is pretty interesting because it shows that, since July 2013, the gap between those two races has been reduced. The regression model (not presented here) support the significant importance of the intervention event (July 2013).
+
+
+
+
 ___
 
 # Is there a difference betwen male and female African Americans ?

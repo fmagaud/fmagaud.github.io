@@ -55,8 +55,6 @@ We all agree that the movement aims at reducing the racial disparities and at er
 
 ![image](images/Number of Arrests of White people before and after the creation of Black Lives Matter.png)
 
-*Number of Arrests of White people before and after the creation of Black Lives Matter*
-
 With a first look on the data, we can see that there is quite a difference between the mean of arrestations before and after July 2013. We can observe a decrease of approximately 23.04% in the total arrests of African Americans between the two periods studied (the first period being between beginning of 2010 until July 2013 and the second period being between July 2013 and end of 2016). That's not what we were expecting... The decrease in arrests is even higher for the White poeple than for the African Americans... Before jumping to any conclusion, we should have a look at the representation of the segmented regression analysis.
 
 ![image](images/Pre and Post July 2013 Arrestations Trends of African American and White people.png)
@@ -77,7 +75,7 @@ After some digging in the political history of L.A., we found that the 42nd mayo
 
 At this stage of the study, we have only studied the evolution of the arrests for different races. Has it has been shown previously, the events that occured in June 2013 (either the creation of the Black Lives Matter movement, either the nomination of the new mayor at L.A.) lead to a significant decrease in the number of arrests of African Americans and White people. <span style="color:red"> These events did not significantly impact the evolution of the arrests of Hispanic people (that was already in a decreasing mode). </span>
 
-Remember our initial question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ? We only answered to the question :did the creation of the Black Lives Matter movement influence the arrestations of African Americans ? <span style="color:red"> Je suis pas tout a fait d'accord, on a pas vu que c'était ça qui avait influencé. Was there a change in the arrestations of African Americans after the creation of the Black Lives Matter movement ? </span>
+Remember our initial question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ? As mentioned above, up to now we only answered the question : was there a change in the arrestations of African Americans after the creation of the Black Lives Matter movement ? 
 
 Let's go back to this first question and see whether the creation of the Black Lives Matter movement helped reduce the discrimination of African Americans (which is basically the main aim of this movement).
 
@@ -93,7 +91,6 @@ ___
 
 ![image](images/Number of Arrests of African American people w-r-t gender (Jan 2010 - Jun 2019).png)
 
-*Number of Arrests of African American people w-r-t gender (Jan 2010 - Jun 2019)*
 
 
  - #### comparison of means.

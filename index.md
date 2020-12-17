@@ -19,6 +19,7 @@ ___
 
 Let's begin with a first and broad analysis of the data.
 
+![image](/images/Number of Arrests of African American people before and after the creation of Black Lives Matter.png)
 <span style="color:red"> ADD PLOT OF ARRESTS PER RACE/span>
 
 ___

@@ -90,6 +90,10 @@ ___
 
 # Is there a difference betwen male and female African Americans ?
 
+![image](images/Number of Arrests of African American people w-r-t gender (Jan 2010 - Jun 2019).png)
+*Number of Arrests of African American people w-r-t gender (Jan 2010 - Jun 2019)*
+
+
  - #### comparison of means.
  - #### segmented regression analysis.
 

@@ -63,18 +63,12 @@ Well that's unfortunate, we find a similar trend for the arrests of White people
 Regression analysis has even shown that July 2013 has a statistically significant importance. <span style="color:red">should we add here the analysis of the regression talbe ? </span> How could we explain that ? 
 
 After some digging in the political history of L.A., we found that the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
-
-
-#### Influence of the movement on the arrestations of Hispanic people 
- 
-<span style="color:red"> (may need to delete this) </span>
-
  
  ___
 
 # Was the disparities between White and African Americans arrestations impacted by the creation of the movement ?
 
-At this stage of the study, we have only studied the evolution of the arrests for different races. Has it has been shown previously, the events that occured in June 2013 (either the creation of the Black Lives Matter movement, either the nomination of the new mayor at L.A.) lead to a significant decrease in the number of arrests of African Americans and White people. <span style="color:red"> These events did not significantly impact the evolution of the arrests of Hispanic people (that was already in a decreasing mode). </span>
+At this stage of the study, we have only studied the evolution of the arrests for different races. Has it has been shown previously, the events that occured in June 2013 (either the creation of the Black Lives Matter movement, either the nomination of the new mayor at L.A.) lead to a significant decrease in the number of arrests of African Americans and White people. 
 
 Remember our initial question: did the Black Lives Matter movement manage to reduce the ratial disparities in the United States ? As mentioned above, up to now we only answered the question : was there a change in the arrestations of African Americans after the creation of the Black Lives Matter movement ? 
 

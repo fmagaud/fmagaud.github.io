@@ -85,7 +85,7 @@ In this graph, we can clearly see a drop in the total number of arrestations of 
 
 ___
 
-# Is there a difference betwen male and female African Americans ?
+# Is there a difference between male and female African Americans ?
 
 To sum up, we have shown an evolution in the trend of the arrests of Black and White people and in the differences in the arrests. 
 
@@ -93,14 +93,27 @@ Another question that we can now study is whether male and female African Americ
 
 ![image](images/Number of Arrests of African American people w-r-t gender (Jan 2010 - Jun 2019).png)
 
-You can see on the graph that the male African Americans are much more impacted by the event in July 2013 than female. The decrease in the arrests of man is at 24.232% whereas we have less than 1% decrease for the woman. We can clearly see here that woman and man are not equal.
+The first striking thing on this graph is how men and women are not equal here. On the period we are investigating, 3 times more men than women were arrested among the black community. This could reflect a global reality (not investigated here) that in most communities men are more involved with justice than women.
 
-As we can observe on the graph, both male and female arrest numbers decrease after July 2013. Yet it seems, looking at the ratios, that the number of female arrests decresed less than for the males.
+The second thing that can be observed is that male African Americans are much more impacted by the event in July 2013 than female. The decrease in the arrests of men is at 24% whereas we have only 18% decrease for the woman.
+
+Now let's visualize more precisely the evolutions of these arrests !
 
 ![image](images/Pre and Post July 2013 Arrestations Trends of Males and Females African American people.png)
 
+From this visual analysis, we can observe that the trends before the movement seem to be quite different across genders. The number of female arrests looks stable while it is increasing for male. As for after July 2013, the trend for women is slowly decreasing but there is a clear drop for men followed by a strong decrease. Actually, these results  have been confirmed by the regression analysis. The model for the female trends confirms that there is indeed a change in slope but that there is no significant drop at the segmentation point. On the contrary, the regression model for male African Americans proved a significant impact of July 2013 on the evolution of arrests.
 
+There is one last interesting thing to note on this graph! The regression of black males looks a lot like the global regression, with both genders, for black people. It makes sense as we have observed that female arrests represent only a small fraction of the black population arrests.
+
+Why could be the cause of these differences within the race ? We cannot state anything for sure but, if we consider no other potential impacting variable, we could make the hypothesis that black women were less discriminated before the Black Lives Matter movement and thus that it had a smaller impact on them.
 
 ___
+
+We have finally reached the end of our study !
+Let's first do a quick recap before concluding. We have proven that there is a significant decrease in the monthly arrests of Afican Americans after July 2013. A similar decrease has been proven for the differences of the arrestations between Black and White people. Yet, we cannot conclude on the true origin of this improvement. 
+
+Let's not forget that we did not take into account all the social factors. Indeed, we cannot say that having more arrestations of African Americans implies that they are discriminated. As for the observed change, we can make several hypothesis !
+If we assume that the differences observed in the number of arrestations between Black and White poeple are due to the discrimination agains African Americans, we can state that the above mentioned changes are due to a decrease in these discriminations. This change could be due and influenced by the creation of the Black Lives Matter movement. Other hypothesis could explain this such as a possible change in citizens' mentalities tending to decrease racial bias. Let's not forget the election of Mayer Garcetti, that happened exactly at the same time as the creation of the movement, that could also have an impact.
+
 
 

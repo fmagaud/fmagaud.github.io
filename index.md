@@ -21,11 +21,9 @@ ___
 
 Let's begin with a first and broad analysis of the data. What is the row number of arrestations for each race in L.A. per year ?
 
-<span style="color:red"> Figure, to update --> average per year </span>
-
 ![image](/images/Number of Arrests per Race.png)
  
-This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be logic that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, we scaled <span style="color:red"> we should maybe only talk in present (ex. let's scale the data) </span> these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
+This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be logic that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, let's scale these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
 
 ![image](/images/Scaled Number of Arrests per Race.png)
  
@@ -60,7 +58,7 @@ With a first look on the data, we can see that there is quite a difference betwe
 ![image](images/Pre and Post July 2013 Arrestations Trends of African American and White people.png)
 
 Well that's unfortunate, we find a similar trend for the arrests of White people and for the arrests of African Americans... The overall trend of the arrestations of White people that was rising before July 2013, is decreasing after July 2013. A drop in the number of arrests (albeit less pronounced than the one observed in the arrests of the African Americans) can also be noticed right after July 2013.
-Regression analysis has even shown that July 2013 has a statistically significant importance. <span style="color:red">should we add here the analysis of the regression talbe ? </span> How could we explain that ? 
+Regression analysis has even shown that July 2013 has a statistically significant importance. How could we explain that ? 
 
 After some digging in the political history of L.A., we found that the 42nd mayor of L.A. has been elected in 2013. Eric Garcetti began his term as L.A. mayer on the 1st of July 2013. The Agenda of the new mayor is focused on converting his city into a safe, livable, and prosperous municipality. This could explain the observed decrease in the overall trend of arrests of white people.  
  
@@ -89,8 +87,15 @@ ___
 
 # Is there a difference betwen male and female African Americans ?
 
+To sum up, we have shown an evolution in the trend of the arrests of Black and White people and in the differences in the arrests. 
+
+Another question that we can now study is whether male and female African Americans are impacted the same way in terms of number of arrests after the apparition of the movement. 
+
 ![image](images/Number of Arrests of African American people w-r-t gender (Jan 2010 - Jun 2019).png)
 
+You can see on the graph that the male African Americans are much more impacted by the event in July 2013 than female. The decrease in the arrests of man is at 24.232% whereas we have less than 1% decrease for the woman. We can clearly see here that woman and man are not equal.
+
+As we can observe on the graph, both male and female arrest numbers decrease after July 2013. Yet it seems, looking at the ratios, that the number of female arrests decresed less than for the males.
 
 ![image](images/Pre and Post July 2013 Arrestations Trends of Males and Females African American people.png)
 

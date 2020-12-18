@@ -109,6 +109,8 @@ Why could be the cause of these differences within the race ? We cannot state an
 
 ___
 
+# To conclude...
+
 We have finally reached the end of our study !
 Let's first do a quick recap before concluding. We have proven that there is a significant decrease in the monthly arrests of Afican Americans after July 2013. A similar decrease has been proven for the differences of the arrestations between Black and White people. Yet, we cannot conclude on the true origin of this improvement. 
 
